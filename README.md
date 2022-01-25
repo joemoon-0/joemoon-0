@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe Moon
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning Real-time programming with C++
+- 🌱 I’m currently C++ and Web Development
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me at https://www.linkedin.com/in/j-moon/
 
