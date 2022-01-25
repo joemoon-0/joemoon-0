@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe Moon
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently C++ and Web Development
+- 🌱 I’m currently learning C++ and Front-End Web Development
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me at https://www.linkedin.com/in/j-moon/
 
